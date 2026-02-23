@@ -1,0 +1,17 @@
+chmod 755 file        - owner full, others read/execute
+chmod 700 folder      - secure folder, only owner access
+chmod 644 file        - owner read/write, others read
+chmod u+x script.sh   - add execute for owner
+chmod g-w file        - remove write from group
+chmod o-r file        - remove read from others
+chmod a+x script.sh   - add execute for all
+
+chown user file       - change owner
+chown user:group file - change owner and group
+chown -R user:group folder - recursive ownership change
+
+chgrp group file      - change group
+chgrp -R group folder - recursive group change
+
+ls -l                 - view permissions
+stat file             - detailed file metadata
