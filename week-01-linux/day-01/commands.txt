@@ -1,0 +1,31 @@
+pwd - print working directory
+ls - list files
+ls -la - list all files including hidden
+cd - change directory
+cd .. - go up one level
+cd ~ - go to home directory
+mkdir - create directory
+mkdir -p - create nested directories
+rmdir - remove empty directory
+touch - create empty file
+cp - copy file
+mv - move or rename file
+rm - remove file
+rm -r - remove directory recursively
+cat - display file contents
+less - view file page by page
+head - show first lines of file
+tail - show last lines of file
+tail -f - follow logs in real time
+whoami - show current user
+hostname - show machine name
+uname -a - show system info
+ip a - show network interfaces
+ping - test connectivity
+curl - fetch webpage
+ss -tulpn - show listening ports
+ps aux - list processes
+top - live system monitor
+apt update - refresh package list
+apt install - install software
+apt remove - remove software
