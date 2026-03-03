@@ -141,15 +141,15 @@ scripts/<script_name>.sh
 
 ## Key Takeaways
 
-Clean directory structure improves automation reliability
+- Clean directory structure improves automation reliability
 
-Permissions and ownership are critical for secure operations
+- Permissions and ownership are critical for secure operations
 
-Logging output is essential for troubleshooting
+- Logging output is essential for troubleshooting
 
-Networking tools are the first step in diagnosing cloud issues
+- Networking tools are the first step in diagnosing cloud issues
 
-Small scripts form the foundation for larger automation systems
+- Small scripts form the foundation for larger automation systems
 
 ---
 
