@@ -74,6 +74,7 @@ cloud-platform-engineer-roadmap/
     └── roadmap-evolution.md
 ```
 
+
 ---
 
 ## Proof‑of‑Work Philosophy
@@ -102,6 +103,15 @@ These projects represent how individual skills compound into complete, deployabl
 
 ---
 
+## Why This Repository Exists
+
+This repository is designed to answer one question clearly:
+
+**How do I design, automate, secure, and operate cloud platforms in real environments?**
+
+It serves as a single, coherent engineering narrative connecting infrastructure fundamentals, cloud architecture, automation, and security into demonstrable capability.
+
+---
 
 ## About Me
 
@@ -114,3 +124,4 @@ My work blends cloud engineering, identity governance, and security automation t
 ## Contact
 
 LinkedIn: https://linkedin.com/in/leonardo-cybersecuritypro
+
