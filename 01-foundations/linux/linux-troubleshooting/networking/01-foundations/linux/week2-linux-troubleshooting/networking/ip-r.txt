@@ -1,0 +1,3 @@
+$ ip r
+default via 172.28.112.1 dev eth0
+172.28.112.0/20 dev eth0 proto kernel scope link src 172.28.123.45
