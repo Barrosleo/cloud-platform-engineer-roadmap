@@ -1,0 +1,7 @@
+Purpose:
+This file documents custom shell aliases used in the Linux environment.
+
+ll  -> ls -alF
+gs  -> git status
+gp  -> git pull
+..  -> cd ..
