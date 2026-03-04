@@ -7,42 +7,42 @@ This lab introduces Windows Server administration fundamentals, forming the base
 ## Folder Structure
 ```
 windows-server/
-├── day1_installation/
+├── installation/
 │   ├── vm-settings.md
 │   ├── installation-steps.md
 │   └── screenshots/
 │       ├── vm-creation.png
 │       ├── first-login.png
 │       └── snapshot.png
-├── day2_configuration/
+├── configuration/
 │   ├── hostname-ip-config.md
 │   ├── powershell-commands.md
 │   └── screenshots/
 │       ├── hostname.png
 │       ├── static-ip.png
 │       └── rdp-enabled.png
-├── day3_server_manager/
+├── server_manager/
 │   ├── roles-features.md
 │   ├── server-manager-overview.md
 │   └── screenshots/
 │       ├── dashboard.png
 │       ├── add-roles.png
 │       └── features-list.png
-├── day4_event_viewer/
+├── event_viewer/
 │   ├── event-analysis.md
 │   ├── triggered-events.md
 │   └── screenshots/
 │       ├── event-viewer.png
 │       ├── filtered-errors.png
 │       └── spooler-event.png
-├── day5_services_scheduler/
+├── services_scheduler/
 │   ├── services-notes.md
 │   ├── scheduled-task.md
 │   └── screenshots/
 │       ├── services.png
 │       ├── scheduler.png
 │       └── task-properties.png
-├── day6_ntfs_permissions/
+├── ntfs_permissions/
 │   ├── ntfs-setup.md
 │   ├── permissions-explained.md
 │   └── screenshots/
