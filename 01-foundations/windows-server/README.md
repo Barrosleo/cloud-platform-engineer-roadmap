@@ -10,45 +10,27 @@ windows-server/
 ├── installation/
 │   ├── vm-settings.md
 │   ├── installation-steps.md
-│   └── screenshots/
-│       ├── vm-creation.png
-│       ├── first-login.png
-│       └── snapshot.png
+|
 ├── configuration/
 │   ├── hostname-ip-config.md
 │   ├── powershell-commands.md
-│   └── screenshots/
-│       ├── hostname.png
-│       ├── static-ip.png
-│       └── rdp-enabled.png
+|
 ├── server_manager/
 │   ├── roles-features.md
 │   ├── server-manager-overview.md
-│   └── screenshots/
-│       ├── dashboard.png
-│       ├── add-roles.png
-│       └── features-list.png
+|
 ├── event_viewer/
 │   ├── event-analysis.md
 │   ├── triggered-events.md
-│   └── screenshots/
-│       ├── event-viewer.png
-│       ├── filtered-errors.png
-│       └── spooler-event.png
+|
 ├── services_scheduler/
 │   ├── services-notes.md
 │   ├── scheduled-task.md
-│   └── screenshots/
-│       ├── services.png
-│       ├── scheduler.png
-│       └── task-properties.png
+|
 ├── ntfs_permissions/
 │   ├── ntfs-setup.md
 │   ├── permissions-explained.md
-│   └── screenshots/
-│       ├── ntfs-window.png
-│       ├── users-created.png
-│       └── permissions-applied.png
+│   
 └── README.md
 ```
 ---
