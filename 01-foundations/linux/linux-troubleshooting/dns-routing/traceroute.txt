@@ -1,0 +1,7 @@
+$ traceroute google.com
+traceroute to google.com (142.250.179.14), 30 hops max, 60 byte packets
+ 1  <gateway> (<gateway_ip>)  1.123 ms  0.987 ms  1.045 ms
+ 2  <isp_hop_1> (<ip>)        5.432 ms  5.210 ms  5.301 ms
+ 3  <isp_hop_2> (<ip>)       10.876 ms 10.654 ms 10.732 ms
+ ...
+ n  google.com (142.250.179.14)  18.901 ms  18.744 ms  18.812 ms
