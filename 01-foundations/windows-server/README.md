@@ -72,6 +72,6 @@ A complete **Windows Server Setup Lab** including:
 - Services and Task Scheduler configuration
 - NTFS permissions setup
 
-All steps include screenshots, notes, and PowerShell equivalents.
+All steps include notes, and PowerShell equivalents.
 
 ---
