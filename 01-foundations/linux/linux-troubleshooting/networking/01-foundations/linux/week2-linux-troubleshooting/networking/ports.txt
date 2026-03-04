@@ -1,0 +1,4 @@
+$ ss -tulnp
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:Port Process
+tcp   LISTEN 0      4096   127.0.0.1:22       0.0.0.0:*     users:(("sshd",pid=123,fd=3))
+udp   UNCONN 0      0      0.0.0.0:68         0.0.0.0:*     users:(("dhclient",pid=456,fd=6))
