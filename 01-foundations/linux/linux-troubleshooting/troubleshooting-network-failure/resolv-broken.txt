@@ -1,1 +1,3 @@
+# /etc/resolv.conf (broken)
+# nameserver lines removed to simulate DNS outage
 
