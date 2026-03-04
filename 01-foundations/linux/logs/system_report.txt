@@ -1,0 +1,14 @@
+System Report - 2026-03-03 21:15:00
+--------------------------------
+Hostname: ubuntu
+
+CPU Usage:
+Cpu(s):  2.3%us,  1.1%sy,  0.0%ni, 96.2%id
+
+Memory Usage:
+              total        used        free
+Mem:           7.7Gi       1.2Gi       6.1Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use%
+/dev/sda1        250G   12G  226G   6%
