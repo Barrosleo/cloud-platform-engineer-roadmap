@@ -1,0 +1,13 @@
+# Command run:
+# bash failing_script.sh
+
+# Terminal output:
+Writing to restricted directory...
+/root/forbidden.txt: Permission denied
+
+# Evidence collected:
+# journalctl -xe (excerpt)
+<DATE_TIME> <HOST> bash[<PID>]: /root/forbidden.txt: Permission denied
+
+# /var/log/syslog (excerpt)
+<DATE_TIME> <HOST> bash[<PID>]: /root/forbidden.txt: Permission denied
