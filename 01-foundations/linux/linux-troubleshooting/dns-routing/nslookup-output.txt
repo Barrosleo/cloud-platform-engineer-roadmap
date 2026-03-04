@@ -1,0 +1,9 @@
+$ nslookup google.com
+Server:         1.1.1.1
+Address:        1.1.1.1#53
+
+Non-authoritative answer:
+Name:   google.com
+Address: 142.250.179.14
+Name:   google.com
+Address: 2a00:1450:4009:80b::200e
